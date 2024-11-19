@@ -18,7 +18,9 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
   <a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
   <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
+  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://skillicons.dev/icons?i=markdown" alt="Markdown" /></a>
 </p>
+
 
 ---
 
