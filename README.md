@@ -1,10 +1,10 @@
-# What's up, **_my name is Jonathan Lång 🌴_**
+# What's up, **_I'm Jonathan Lång 🌴_**
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXljdHBvNXlyZHpmd2piYnZybmJkcGJpbjh6cjV4bjVyYXB6NzY3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello there GIF" width="400" />
 </p>
 
-### My Tech Stack 💻
+### My Current Tech Stack 💻
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
@@ -54,14 +54,6 @@
 ### Quote ✨
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-### Profile Views 👀
-
-<p align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jonathanlaang/&title=Profile%20Views" alt="Profile Views" />
-</p>
 
 ---
 
