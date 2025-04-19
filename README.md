@@ -1,4 +1,4 @@
-# What's up, **_I'm Jonathan Lång 🌴_**
+# _What's up,_
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXljdHBvNXlyZHpmd2piYnZybmJkcGJpbjh6cjV4bjVyYXB6NzY3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiIzJSKB4l7xTouE8/giphy.gif" alt="Hello there GIF" width="400" />
